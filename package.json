@@ -1,0 +1,21 @@
+{
+    "name": "vh",
+    "description": "A hash based vhost router for http/https/spdy - tiny and fast",
+    "tags": [
+        "vhost",
+        "http",
+        "https",
+        "spdy"
+    ],
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:e2tox/vhost.git"
+    },
+    "homepage": "https://github.com/e2tox/vhost",
+    "author": "e2tox <e2tox@live.com>",
+    "main": "./index.js",
+    "engines": {
+        "node": "*"
+    }
+}
