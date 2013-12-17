@@ -10,9 +10,9 @@
     "version": "0.0.1",
     "repository": {
         "type": "git",
-        "url": "git@github.com:e2tox/vhost.git"
+        "url": "git@github.com:e2tox/vh.git"
     },
-    "homepage": "https://github.com/e2tox/vhost",
+    "homepage": "https://github.com/e2tox/vh",
     "author": "e2tox <e2tox@live.com>",
     "main": "./index.js",
     "engines": {
