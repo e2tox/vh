@@ -1,13 +1,13 @@
 {
     "name": "vh",
-    "description": "A hash based vhost router for http/https/spdy - tiny and fast",
+    "description": "A tiny and fast vhost hash router for http/https/spdy",
     "tags": [
         "vhost",
         "http",
         "https",
         "spdy"
     ],
-    "version": "0.0.1",
+    "version": "0.0.2",
     "repository": {
         "type": "git",
         "url": "git@github.com:e2tox/vh.git"
